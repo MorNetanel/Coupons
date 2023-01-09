@@ -1,0 +1,13 @@
+.Home {
+    font-family: 'Prompt'; 
+     color: black;
+    font-size: 30%;
+    
+	
+}
+
+
+.Home div div{
+   flex-direction: column;
+}
+

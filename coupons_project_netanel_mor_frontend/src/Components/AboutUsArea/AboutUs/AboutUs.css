@@ -1,0 +1,16 @@
+.AboutUs h2 {
+	font-family: Regular, cursive;
+	font-size: 50px;
+	margin: 1%;
+
+}
+
+.AboutUs div {
+	font-family: 'Regular', cursive;
+	font-size: 50px;
+
+}
+
+.AboutUs img{
+	width: 60%;
+}

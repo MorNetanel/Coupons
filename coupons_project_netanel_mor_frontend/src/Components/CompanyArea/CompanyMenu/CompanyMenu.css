@@ -1,0 +1,9 @@
+.CompanyMenu {
+	padding: 10px;
+    margin: 10px;
+    font-size: 40px;
+}
+
+.CompanyMenu :hover{
+    color: black;
+}

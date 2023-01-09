@@ -1,0 +1,25 @@
+.AdminMenu {
+	/* padding: 10px; */
+    margin: 20px;
+    font-size: 40px;
+    /* width: 35%; */
+    margin-right: 50px;
+    position: absolute;
+   
+
+
+    
+}
+
+.AdminMenu navbar-nav{
+    margin-right: 3%;
+}
+
+NavLink{
+    margin-right: 3%;
+}
+
+/* .NavMenu{
+    position: absolute;
+    text-align: center;
+} */

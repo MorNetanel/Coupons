@@ -1,0 +1,17 @@
+.Customer {
+	
+}
+
+.Customer h2{
+    font-size:60px ;
+}
+
+.Customer>div{
+    font-size: 50px;
+    
+
+}
+
+.Customer :link{
+    font-size: 50px;
+}

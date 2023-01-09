@@ -1,0 +1,25 @@
+.CouponsDisplay {
+	
+}
+
+
+
+.CouponsDisplay button{
+    font-size: 30px;
+    position: relative;
+    
+}
+
+.price{
+    width: 30%;
+    font-size: 40px;
+}
+
+.category{
+    width: 10%;
+    font-size: 40px;
+}
+
+
+
+

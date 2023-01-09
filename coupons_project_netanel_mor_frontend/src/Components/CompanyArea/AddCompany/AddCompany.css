@@ -1,0 +1,15 @@
+.AddCompany {
+	font-size: 40px;
+    text-align: center;
+    margin: 30px;
+    padding: 20px;
+}
+
+.AddCompany button{
+    font-size: 100px;
+}
+
+.AddCompany input{
+    font-size: 100px;
+    margin: 20px;
+}

@@ -1,0 +1,15 @@
+.EditCoupon {
+	font-size: 50px;
+    text-align: center;
+    margin: 30px;
+    padding: 20px;
+}
+
+.EditCoupon button{
+    font-size: 50px;
+}
+
+.EditCoupon input{
+    font-size: 50px;
+    margin: 20px;
+}

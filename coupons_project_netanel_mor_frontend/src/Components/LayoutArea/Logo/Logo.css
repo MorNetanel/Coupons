@@ -1,0 +1,17 @@
+.Logo{
+	width: 20%;
+	height: 20%;
+	position: absolute;
+top: 0px;
+left: 5px;
+}
+
+.Logo img{
+	width: 40%;
+	height: 40%;
+	position: absolute;
+top: 5px;
+left: 5px;
+}
+
+

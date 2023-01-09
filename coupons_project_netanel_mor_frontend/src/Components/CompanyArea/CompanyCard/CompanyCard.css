@@ -1,0 +1,28 @@
+.CompanyCard {
+	width:380px;
+    height: 100px;
+    display: inline-flex;
+    font-size: 40px;
+	background-color:  rgba(255, 255, 255, 0.781);
+    border-radius: 30px;
+	padding: 25px;
+	margin: 30px;
+	border: 2px rgb(185, 174, 174) solid;
+}
+
+.CompanyCard span{
+    text-align: center;
+}
+
+@keyframes pop{
+    from {background-color: rgb(204, 226, 235);}
+    to {background-color: rgb(255, 255, 255);}
+}
+
+.CompanyCard.box:hover{
+    animation-name: pop;
+  animation-duration: 0.5s; 
+    background-color: rgb(255, 255, 255);
+    border: 2px solid gray;
+    
+}

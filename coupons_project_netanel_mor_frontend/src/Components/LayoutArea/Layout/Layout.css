@@ -1,0 +1,14 @@
+.Layout {
+	height: 100%;
+    display: grid;
+    grid-template-rows: 15% 7% 75% 3%;
+    background-image: url("Image.jpg");
+    
+}
+
+.Layout main{
+    overflow: auto;
+}
+
+
+

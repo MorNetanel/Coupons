@@ -1,0 +1,9 @@
+.CustomerMenu {
+	padding: 10px;
+    margin: 10px;
+    font-size: 40px;
+}
+
+.CustomerMenu :hover{
+    color: black;
+}
